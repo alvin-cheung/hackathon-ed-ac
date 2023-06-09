@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "TBD",
+    "name": "Gimme 5!",
     "version": "1",
-    "description": "Here goes nothing!",
+    "description": "Don't know what you're doing either? Gimme 5!",
 
     "content_scripts": [
         {
@@ -10,5 +10,4 @@
             "js": ["./main.js"]
         }
     ]
-
 }
